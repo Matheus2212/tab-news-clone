@@ -1,2 +1,2 @@
-# tab-news-clonse
-CLone of filipe Deschamps tabnews
+# tab-news-clone
+Clone of Filipe Deschamps tabnews
